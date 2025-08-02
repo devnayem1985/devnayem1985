@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Md Nayem Jahagir Alam</h1>
-<h3 align="center">Passionate Web Developer with exertise in HTML, CSS, JavaScript, and modern frameworks.</h3>
+<h3 align="center">Professional Web Designer Developer & WordPress Expert Helping Businesses and Creators Built Stuning, 
+Functional Websites Passionateabout Turning Ideas into Digital Reality | Training Next Gen Web Developers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnayem&label=Profile%20views&color=0e75b6&style=flat" alt="devnayem" /> </p>
 
